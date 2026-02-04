@@ -95,9 +95,9 @@ app.use((req,res,next) => {
 //     res.send(registeredUser);
 // })
 
-app.get("/", (req,res) => {
-    res.send("The root is working!");
-})
+// app.get("/", (req,res) => {
+//     res.send("The root is working!");
+// })
 
 
 
